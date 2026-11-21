@@ -1,0 +1,4 @@
+[submodule "team_project"]
+	path = team_project
+	url = https://github.com/Nagham202/cellula-week8-agentic-system.git
+	branch = main

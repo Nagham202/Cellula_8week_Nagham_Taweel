@@ -2,7 +2,8 @@
 
 My individual tasks (0–4) for Week 8 of the Cellula Technologies NLP & AI internship.
 
-**Team work (Tasks 5 and 6):** [cellula-week8-agentic-system](https://github.com/Nagham202/cellula-week8-agentic-system)
+**Team work (Tasks 5 and 6):** [cellula-week8-agentic-system](https://github.com/Nagham202/cellula-week8-agentic-system),
+also linked here as the [`team_project/`](team_project) folder
 — an agentic RAG system deployed with FastAPI, Docker and Terraform, with voice queries, image OCR and a PDF report
 agent. My part was the FastAPI API, the answer cache, the tests, the Docker image and the Terraform configuration
 (`api/`, `infra/`, `Dockerfile`, `src/cache.py`, `tests/test_api.py`).
@@ -14,6 +15,7 @@ agent. My part was the FastAPI API, the answer cache, the tests, the Docker imag
 | 2 | Qwen3-ASR-1.7B for speech-to-text (IEEE report with experiments) | [task2_qwen3_asr/](task2_qwen3_asr/) | Done |
 | 3 | Generative Adversarial Networks (IEEE report) | [task3_gans/](task3_gans/) | Done |
 | 4 | Updated CV | [task4_cv/](task4_cv/) | Done |
+| 5–6 | Team project: agentic RAG system, FastAPI, Docker, Terraform | [team_project/](team_project) | Done |
 
 ## Task 0: Kimi K2 Architecture Analysis
 
