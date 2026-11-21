@@ -1,7 +1,11 @@
 # Nagham Taweel – Week 8 Individual Work
 
-My individual tasks for Week 8 of the Cellula Technologies NLP & AI internship.
-The team work (Tasks 5 and 6) is in the main project folders (`src/`, `api/`, `infra/`).
+My individual tasks (0–4) for Week 8 of the Cellula Technologies NLP & AI internship.
+
+**Team work (Tasks 5 and 6):** [cellula-week8-agentic-system](https://github.com/Nagham202/cellula-week8-agentic-system)
+— an agentic RAG system deployed with FastAPI, Docker and Terraform, with voice queries, image OCR and a PDF report
+agent. My part was the FastAPI API, the answer cache, the tests, the Docker image and the Terraform configuration
+(`api/`, `infra/`, `Dockerfile`, `src/cache.py`, `tests/test_api.py`).
 
 | Task | Topic | Folder | Status |
 |---|---|---|---|
